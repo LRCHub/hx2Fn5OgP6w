@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "不幸中の幸い",
+  "base_artist": "YENTOWN",
+  "createdAt": "2025-12-01T13:10:26.550759Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不幸中の幸い少女",
+      "artist": "ニャーKB with ツチノコパンダ",
+      "has_synced": false,
+      "path": "select/pl_01_不幸中の幸い少女_ニャーKB_with_ツチノコパンダ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "不幸中の幸い少女",
+      "artist": "ニャーKB with ツチノコパンダ",
+      "has_synced": false,
+      "path": "select/pl_02_不幸中の幸い少女_ニャーKB_with_ツチノコパンダ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "不幸中の幸い (feat. kZm, PETZ, JNKMN, Awich, MonyHorse & U-Lee)",
+      "artist": "ニャーKB with ツチノコパンダ",
+      "has_synced": false,
+      "path": "select/pl_03_不幸中の幸い_(feat._kZm,_PETZ,_JNKMN,_Awich,_MonyHorse_&_U-Lee)_ニャーKB_with_ツチノコパンダ.txt"
+    }
+  ]
+}
